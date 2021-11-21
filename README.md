@@ -1,6 +1,6 @@
 # Student Information
 Student Name: Manmaya Prasad Panda 
-Student ID: 
+Student ID: 17232977
 
 # The Abstraction and Reasoning Corpus (ARC)
 
