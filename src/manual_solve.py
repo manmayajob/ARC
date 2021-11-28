@@ -37,7 +37,7 @@ def solve_6150a2bd(inputs):
 
 def solve_ce22a75a(inputs):
     '''
-    The function returns a numpy array by replacing all zeros around a pattern with the corresponding pattern value.
+    In this  function I return a numpy array by replacing all zeros around a pattern with the corresponding pattern value.
     
     '''
     tst_rslt = np.array(inputs)
@@ -57,7 +57,7 @@ def solve_ce22a75a(inputs):
 def solve_1cf80156(inputs):
     '''
 
-    The function returns an numpy array by slicing the min and max value of rows and columns for the given input.
+    In this function I return an numpy array by slicing the min and max value of rows and columns for the given input.
     
     '''
 
